@@ -10,4 +10,14 @@ body {
     padding: 20px;
 }
 
+.btn{
+    padding: 6px 15px;
+    border-radius: 10px;
+}
+
+.btn-primary{
+    color: white;
+    background-color: blue;
+    border: white;
+}
 /* Add more styles here */
